@@ -20,4 +20,4 @@ Feature engineering was part of the approach used in this project, as it was obs
 To view plotly graphs within the second notebook, copy and paste the link of this specific GitHub notebook (Part 2) into [nbviewer](http://nbviewer.jupyter.org/), because the plotly graphs cannot be viewed in github.
 
 
-Overall, the libraries utilized include ***pandas, numpy, seaborn, matplotlib, mxltend, sklearn and scipy.***
+Overall, the libraries utilized include ***pandas, numpy, plotly, seaborn, matplotlib, mxltend, sklearn and scipy.***
