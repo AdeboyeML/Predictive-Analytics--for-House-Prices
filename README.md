@@ -1,0 +1,2 @@
+# Advanced-Regression-Techniques-for-House-Prices
+This aimed towards exploring the data extensively and elaboratively with the use of advanced data visualization libraries such as Seaborn and Plotly, and use of regularized regression models such as Ridge, Lasso, Elastic Net Regressor and Ensemble models such as RandomForest, XGBoost, Gradient Boost to predict house prices in Ames, Iowa and further engineer features that will help optimize our Machine Learning Models.
