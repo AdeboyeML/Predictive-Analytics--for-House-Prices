@@ -17,5 +17,7 @@ The second part of this project used plotly as the data visualization library an
 
 Feature engineering was part of the approach used in this project, as it was observed that summing up some highly correlated numeric features yield high and better correlation to the target variable.
 
+To view plotly graphs within the second notebook, copy and paste the link of this specific GitHub notebook (Part 2) into [nbviewer](http://nbviewer.jupyter.org/), because the plotly graphs cannot be viewed in github.
 
-Overall, the libraries utilized include ***pandas, numpy, seaborn, matplotlib, mxlned, sklearn and scipy.***
+
+Overall, the libraries utilized include ***pandas, numpy, seaborn, matplotlib, mxltend, sklearn and scipy.***
